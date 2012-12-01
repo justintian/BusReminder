@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\BusReminder.csproj;neutral
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\NotificationsExtensions.csproj;neutral

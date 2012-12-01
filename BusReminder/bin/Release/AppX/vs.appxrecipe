@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YONGJUNTIANHOME</Machine>
+    <WindowsUser>Administrator</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>3B821D8F71192ECB6E5471FBA2A21E2226D354C07E340156717539CAD24D077C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6fb4f26a-af6c-4d89-931e-70164674b359_1.0.0.0_neutral__75cr2b68sm664</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6fb4f26a-af6c-4d89-931e-70164674b359_75cr2b68sm664!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6fb4f26a-af6c-4d89-931e-70164674b359</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Administrator</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-17T15:50:31.011</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\BusReminder.exe">
+      <PackagePath>BusReminder.exe</PackagePath>
+      <Modified>2012-11-17T15:52:26.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\BusReminder.pdb">
+      <PackagePath>BusReminder.pdb</PackagePath>
+      <Modified>2012-11-17T15:52:26.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Downloads\AMap_Win8_Api_SDK\Com.AMap.Maps.Api.winmd">
+      <PackagePath>Com.AMap.Maps.Api.winmd</PackagePath>
+      <Modified>2012-11-04T10:07:47.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-11-13T15:33:38.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-12T13:43:06.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T08:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\BusLineChoose.xaml">
+      <PackagePath>BusLineChoose.xaml</PackagePath>
+      <Modified>2012-11-17T10:36:44.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-17T13:01:36.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\MapView.xaml">
+      <PackagePath>MapView.xaml</PackagePath>
+      <Modified>2012-11-17T15:43:39.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\ReminderPage.xaml">
+      <PackagePath>ReminderPage.xaml</PackagePath>
+      <Modified>2012-11-15T00:12:15.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\StationChoose.xaml">
+      <PackagePath>StationChoose.xaml</PackagePath>
+      <Modified>2012-11-17T13:15:19.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BusReminder\BusReminder\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-17T15:50:28.230</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

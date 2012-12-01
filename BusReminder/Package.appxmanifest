@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="60882yongjuntian.52918E9096C9E" Publisher="CN=D35CD9EA-F6D3-49A9-BDFA-9063878C5BE2" Version="1.0.0.2" />
+  <Properties>
+    <DisplayName>公交地铁闹铃</DisplayName>
+    <PublisherDisplayName>yongjuntian</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="BusReminder.App">
+      <VisualElements DisplayName="公交地铁闹铃" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="地铁公交闹铃" ForegroundText="light" BackgroundColor="#00b2f0" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" ShortName="地铁公交闹铃" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#00b2f0" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+</Package>

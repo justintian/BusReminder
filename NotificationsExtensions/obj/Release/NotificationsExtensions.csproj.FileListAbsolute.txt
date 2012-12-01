@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\bin\Release\NotificationsExtensions.XML
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\bin\Release\NotificationsExtensions.winmd
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\bin\Release\NotificationsExtensions.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\bin\Release\NotificationsExtensions.pri
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\NotificationsExtensions.winmd
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\NotificationsExtensions.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\NotificationsExtensions.winmdobj
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\NotificationsExtensions.compile.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\priconfig.xml.intermediate
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\layout.resfiles.intermediate
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\resources.resfiles.intermediate
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\pri.resfiles.intermediate
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\priconfig.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\layout.resfiles
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\resources.resfiles
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\pri.resfiles
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotificationsExtensions\obj\Release\LanguageQualifiers.txt
